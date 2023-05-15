@@ -152,7 +152,7 @@
 }
 
 .contact-us:hover svg {
-  transform: translateX(2.5em) rotate(45deg) scale(1.1);
+  transform: translateX(1.8em) rotate(45deg) scale(1.1);
 }
 
 .contact-us:hover span {
